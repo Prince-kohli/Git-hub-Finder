@@ -1,0 +1,51 @@
+.card {
+  width: 18rem;
+  text-align: center;
+
+  margin-left: 100px;
+  margin-top: 10px;
+}
+
+.card-2 {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+
+  grid-template-areas: 88px;
+}
+
+.searchbox {
+  width: 100%;
+
+  margin-top: 20px;
+}
+
+.btn {
+  margin-top: 10px;
+  width: 100%;
+}
+
+.hav {
+  margin-left: 1010px;
+}
+
+.button {
+  width: 160px;
+}
+
+.car {
+  margin-top: 40px;
+
+  border: 1px solid black;
+}
+
+.bage {
+  margin-top: 40px;
+  border: 1px solid black;
+
+  padding-bottom: 7px;
+}
+
+.true {
+  height: 20px;
+  width: 40px;
+}
